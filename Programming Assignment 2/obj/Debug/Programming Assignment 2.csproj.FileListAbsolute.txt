@@ -1,0 +1,16 @@
+C:\Users\baoqt\source\repos\Programming Assignment 2\Programming Assignment 2\bin\Debug\Programming Assignment 2.exe.config
+C:\Users\baoqt\source\repos\Programming Assignment 2\Programming Assignment 2\bin\Debug\Programming Assignment 2.exe
+C:\Users\baoqt\source\repos\Programming Assignment 2\Programming Assignment 2\bin\Debug\Programming Assignment 2.pdb
+C:\Users\baoqt\source\repos\Programming Assignment 2\Programming Assignment 2\obj\Debug\Programming Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\baoqt\source\repos\Programming Assignment 2\Programming Assignment 2\obj\Debug\Programming Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\baoqt\source\repos\Programming Assignment 2\Programming Assignment 2\obj\Debug\Programming Assignment 2.exe
+C:\Users\baoqt\source\repos\Programming Assignment 2\Programming Assignment 2\obj\Debug\Programming Assignment 2.pdb
+C:\Users\BAO\source\repos\Programming Assignment 2\Programming Assignment 2\bin\Debug\Programming Assignment 2.exe.config
+C:\Users\BAO\source\repos\Programming Assignment 2\Programming Assignment 2\bin\Debug\Programming Assignment 2.exe
+C:\Users\BAO\source\repos\Programming Assignment 2\Programming Assignment 2\bin\Debug\Programming Assignment 2.pdb
+C:\Users\BAO\source\repos\Programming Assignment 2\Programming Assignment 2\obj\Debug\Programming Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\BAO\source\repos\Programming Assignment 2\Programming Assignment 2\obj\Debug\Programming Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\BAO\source\repos\Programming Assignment 2\Programming Assignment 2\obj\Debug\Programming Assignment 2.exe
+C:\Users\BAO\source\repos\Programming Assignment 2\Programming Assignment 2\obj\Debug\Programming Assignment 2.pdb
+C:\Users\BAO\source\repos\Programming Assignment 2\Programming Assignment 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BAO\source\repos\Programming Assignment 2\Programming Assignment 2\bin\Debug\Newtonsoft.Json.xml
